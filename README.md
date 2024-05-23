@@ -21,12 +21,21 @@
 2. # ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, LineElement, PointElement, Filler, zoomPlugin);
    This line is telling the Chart.js library to include certain features and components. Think of it like saying, "Hey Chart.js, I want to use these specific parts to create my charts." Here's what each part does:
    > > CategoryScale: Allows us to use categories (like names of pages) on the X-axis.
+   
    > > LinearScale: Allows us to use numerical values on the Y-axis.
+   
    > > BarElement: Lets us draw bar charts.
+
    > > Title: Lets us add titles to our charts.
+   
    > > Tooltip: Adds tooltips that appear when you hover over parts of the chart to show more information.
+   
    > > Legend: Adds a legend to explain what the different colors or lines represent.
+   
    > > LineElement: Lets us draw line charts.
+   
    > > PointElement: Lets us draw points on line charts (like dots at each data point).
+   
    > > Filler: Allows us to fill areas under lines in a line chart.
+   
    > > zoomPlugin: Adds the ability to zoom in and out of the charts.
